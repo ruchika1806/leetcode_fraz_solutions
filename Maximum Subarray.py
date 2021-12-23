@@ -1,12 +1,5 @@
-// Maximum Subarray : LEETCODE-53
-
-//T.C : O(n) 
-//S.C : O(1)
-
-
-//Python
 class Solution(object):
-    def maxSubArray(self, nums):
+   def maxSubArray(self, nums):
         """
         :type nums: List[int]
         :rtype: int
