@@ -39,7 +39,7 @@ int knightDialer(int N) {
     
 };
 
-//Effecient Solution:
+//Efficient Solution:
 //T.C - O(N)
 //S.C - O(N)
 
