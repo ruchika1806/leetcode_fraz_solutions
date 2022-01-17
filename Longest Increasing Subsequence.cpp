@@ -15,7 +15,7 @@ public:
              seq.push_back(a[i]);
          }
          else{
-             int ind = lower_bound(seq.begin(),seq.end(),a[i])-seq.end();
+             int ind = lower_bound(seq.begin(),seq.end(),a[i])-seq.begin();
              seq[ind]=a[i];
          }
      }
