@@ -1,4 +1,4 @@
-//Longest Increasing Subarray - LEETCODE 300
+//Longest Increasing Subsequence - LEETCODE 300
 
 //T.C - O(N)
 //S.C - O(N)
